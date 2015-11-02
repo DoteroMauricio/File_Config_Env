@@ -9,18 +9,23 @@
   },
   "messages": {
     "alert": {
+      "alertLoading": "Cargando informacion ...",
       "alertCommand": "No se establecieron comandos de Ayuda",
       "alertPrompt" : "Sin errores verificar",
       "transaccionFile" : "Transaccion de satisfactoria",
-      "existsFile": "El archivo esta existiendo en el directorio",
-      "notExistFIle": "El archivo no esta existiendo en el archivo , se tendra que generar"
+      "alertexistsFile": "El archivo esta existiendo en el directorio",
+      "alertnotExistFile": "El archivo no esta existiendo en el archivo , se tendra que generar",
+      "alertregisterUser": "Generacion de cambio de usuario y contraseña",
+      "alertListProperties" : "Descripcion  de la computadora"
     },
     "booleanData":{
       "dataTrue" : "Ok",
       "dataFalse": "Error"
     },
     "error":{
-       "errorProceso" : "Error en el proceso de logueo de Usuarios"
+       "errorProceso" : "Error en el proceso de logueo de Usuarios",
+       "errorFileRead" : "Error en leer el archivo destino",
+       "errorRedirecMethod" : "Error en redireccionar los metodos"
     }
   }
 }
