@@ -1,0 +1,29 @@
+{
+  "app": {
+    "name": "Facturactiva"
+  },
+  "logger": {
+    "request": "C:\\LOG_FILES\\facturactiva\\log\\request.log",
+    "info": "C:\\LOG_FILES\\facturactiva\\log\\info.log",
+    "error": "C:\\LOG_FILES\\facturactiva\\log\\error.log"
+  },
+  "messages": {
+    "alert": {
+      "alertCommand": "No se establecieron comandos de Ayuda",
+      "alertPrompt" : "Sin errores verificar",
+      "transaccionFile" : "Transaccion de satisfactoria",
+      "existsFile": "El archivo esta existiendo en el directorio",
+      "notExistFIle": "El archivo no esta existiendo en el archivo , se tendra que generar"
+    },
+    "booleanData":{
+      "dataTrue" : "Ok",
+      "dataFalse": "Error"
+    },
+    "error":{
+       "errorProceso" : "Error en el proceso de logueo de Usuarios"
+    }
+  }
+}
+
+
+

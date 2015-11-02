@@ -1,0 +1,10 @@
+{
+  "directory": {
+    "ruta": "C:\\Users\\Mauricio\\AppData\\Local\\Temp\\"
+  },
+  "mailOptions": {
+    "senderAddress" : "Facturactiva ✔ <facturactiva@innovactiva.com>",
+    "receivers" : "jmauricio@isiconsulting.com.pe",
+    "subject" : "Facturactiva ✔"
+  }
+}
