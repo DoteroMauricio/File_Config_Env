@@ -1,0 +1,14 @@
+{
+  "app": {
+    "name": "Facturactiva"
+  },
+  "logger": {
+    "request": "/home/ov3rflow/.facturactiva/log/request.log",
+    "info": "/home/ov3rflow/.facturactiva/log/info.log",
+    "error": "/home/ov3rflow/.facturactiva/log/error.log"
+  },
+  "messages": {
+        "problemas ": "mal"
+    }
+}
+
