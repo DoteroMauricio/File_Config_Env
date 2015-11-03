@@ -16,7 +16,8 @@
       "alertexistsFile": "El archivo esta existiendo en el directorio",
       "alertnotExistFile": "El archivo no esta existiendo en el archivo , se tendra que generar",
       "alertregisterUser": "Generacion de cambio de usuario y contraseña",
-      "alertListProperties" : "Descripcion  de la computadora"
+      "alertListProperties" : "Descripcion  de la computadora",
+      "alertIqualsUser" : "El usuario es el mismo que el anterior , porfavor cambiar con otro usuario "
     },
     "booleanData":{
       "dataTrue" : "Ok",
@@ -25,7 +26,9 @@
     "error":{
        "errorProceso" : "Error en el proceso de logueo de Usuarios",
        "errorFileRead" : "Error en leer el archivo destino",
-       "errorRedirecMethod" : "Error en redireccionar los metodos"
+       "errorRedirecMethod" : "Error en redireccionar los metodos",
+       "errorChangeUser" : "Error en el metodo Cambio de Usuario",
+       "errorCommandChangeUser" : "Error en el proceso de Validacion de Usuario si son repetidos"
     }
   }
 }
